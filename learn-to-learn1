@@ -1,0 +1,9 @@
+Learning Vue Framework- to easily make cool web apps 
+2-26-2018
+Set the Stage
+I set the stage in a simple but super effective way for myself. I can get distracted easily during presentations if my computer is on and open. I can catch myself working on something else unrelated to the topic and basically not have learned a single thing by the time the presentation is over. Therefore, my powerful yet simple setting the stage is me closing my laptop and giving my full attention to the presentation. 
+Reflection
+I really learned alot from CJ’s breakout titled “Intro to Vue.” The pace was great and he walked us through the process of installing Vue using npm and then building a simple single page app. He also covered the benefits of using a front-end framework in general like delegating coding tasks to the framework so you don’t have to code every single piece of the program every time you want to build a web app. 
+ 
+The ‘Play’ part for me was following along with CJ as he built a simple app that talked to ombd.com API and returned a set of posters for each movie that matched the search term and then rendered it on the screen to the user. I really want to try to build a very similar type of app as a practice to learn Vue frameworks. I was really not able to get a complete setup going besides launching the Vue basic app. I would love to follow up more this week and get that first Vue app going by taking a patient approach and loving to learn as I go. I am excited for the challenge!
+ 
